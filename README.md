@@ -45,12 +45,6 @@ The Retriever-Augmented Generation (RAG) project aims to enhance question-answer
 - **RAG Function:** Combines a retriever (FAISS) and a language model to provide answers to user queries. It loads vector embeddings, retrieves relevant documents, and generates responses using the LLM.
 - **Streamlit UI:** Sets up a user-friendly interface with Streamlit for uploading documents, entering queries, and displaying responses.
 
-## Contribution
-Contributions to the RAG project are welcome. Please ensure to follow the best practices for coding and documentation. Submit pull requests for any enhancements.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ---
 
 
